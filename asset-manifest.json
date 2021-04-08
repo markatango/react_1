@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/markatango.github.io/react_1/static/css/main.7d9b71fc.chunk.css",
-    "main.js": "/markatango.github.io/react_1/static/js/main.e874609a.chunk.js",
-    "main.js.map": "/markatango.github.io/react_1/static/js/main.e874609a.chunk.js.map",
-    "runtime-main.js": "/markatango.github.io/react_1/static/js/runtime-main.a9d8d312.js",
-    "runtime-main.js.map": "/markatango.github.io/react_1/static/js/runtime-main.a9d8d312.js.map",
-    "static/js/2.743303ce.chunk.js": "/markatango.github.io/react_1/static/js/2.743303ce.chunk.js",
-    "static/js/2.743303ce.chunk.js.map": "/markatango.github.io/react_1/static/js/2.743303ce.chunk.js.map",
-    "static/js/3.7eb9e59c.chunk.js": "/markatango.github.io/react_1/static/js/3.7eb9e59c.chunk.js",
-    "static/js/3.7eb9e59c.chunk.js.map": "/markatango.github.io/react_1/static/js/3.7eb9e59c.chunk.js.map",
-    "index.html": "/markatango.github.io/react_1/index.html",
-    "static/css/main.7d9b71fc.chunk.css.map": "/markatango.github.io/react_1/static/css/main.7d9b71fc.chunk.css.map",
-    "static/js/2.743303ce.chunk.js.LICENSE.txt": "/markatango.github.io/react_1/static/js/2.743303ce.chunk.js.LICENSE.txt"
+    "main.css": "/react_1/static/css/main.7d9b71fc.chunk.css",
+    "main.js": "/react_1/static/js/main.e874609a.chunk.js",
+    "main.js.map": "/react_1/static/js/main.e874609a.chunk.js.map",
+    "runtime-main.js": "/react_1/static/js/runtime-main.016ccd4a.js",
+    "runtime-main.js.map": "/react_1/static/js/runtime-main.016ccd4a.js.map",
+    "static/js/2.743303ce.chunk.js": "/react_1/static/js/2.743303ce.chunk.js",
+    "static/js/2.743303ce.chunk.js.map": "/react_1/static/js/2.743303ce.chunk.js.map",
+    "static/js/3.7eb9e59c.chunk.js": "/react_1/static/js/3.7eb9e59c.chunk.js",
+    "static/js/3.7eb9e59c.chunk.js.map": "/react_1/static/js/3.7eb9e59c.chunk.js.map",
+    "index.html": "/react_1/index.html",
+    "static/css/main.7d9b71fc.chunk.css.map": "/react_1/static/css/main.7d9b71fc.chunk.css.map",
+    "static/js/2.743303ce.chunk.js.LICENSE.txt": "/react_1/static/js/2.743303ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9d8d312.js",
+    "static/js/runtime-main.016ccd4a.js",
     "static/js/2.743303ce.chunk.js",
     "static/css/main.7d9b71fc.chunk.css",
     "static/js/main.e874609a.chunk.js"
